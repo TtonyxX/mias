@@ -1,0 +1,7 @@
+{
+	"name": "Mias",
+    "version": "1.0",
+    "description": "Media bias detector",
+    "manifest_version": 2,
+    "icons": {"128", ""}
+}
